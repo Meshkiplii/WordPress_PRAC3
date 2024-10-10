@@ -1,11 +1,10 @@
 # **Learning Journal Entry**
 # Week 3.
 
-Coffee Shop Article Website Using Joomla CMS
-Project Overview
-This week, I transitioned from my first practical assignment to explore the Joomla CMS for building a startup business website. \
-Joomla is an open-source content management system that enables easy creation and management of websites. 
-The goal of this task was to create a functional, customizable website for my startup, incorporating essential pages, text, and images to reflect the business identity.  
+**WordPress Site for Coffee Restaurant**
+
+This week's task was to shift from Joomla to WordPress to create a simple website for the same startup coffee shop. 
+The focus was on learning WordPress, rather than content development, reusing much of the content and design from my Joomla site. 
 
 ## **Initial Setup**
 
