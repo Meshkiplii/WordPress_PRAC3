@@ -38,4 +38,4 @@ This week, the focus shifted from Joomla to WordPress to build a simple website 
 
 Switching from Joomla to WordPress has been a valuable experience. While Joomla may offer more control for advanced users, WordPress's user-friendly interface makes it ideal for rapid website development. The coffee shop site is progressing well, and I look forward to exploring additional features and customization options.
 
-**Link to WordPress Site:** [Coffee Restaurant WordPress Website](#)
+**Link to WordPress Site:** [Coffee Restaurant WordPress Website](https://coffeerestaurant3.wordpress.com/)
